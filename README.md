@@ -5,3 +5,6 @@
 #### Instalação do SQL Server 2022 [Link ]([Centro de Avaliação da Microsoft](https://www.microsoft.com/pt-br/evalcenter/download-sql-server-2022).)
 
 quero instalar INSTALAR e CONFIGURAR o SQL Server 2022
+instalar o Docker no Linux Mint
+Configuração do Ambiente com Docker  
+Como subir um container MySQL usando Docker e conectar 
